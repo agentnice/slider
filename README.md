@@ -1,2 +1,2 @@
 # slider
-Simple lending template with slider and accordion
+https://agentnice.github.io/slider/index.html
